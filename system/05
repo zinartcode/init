@@ -1,1 +1,1 @@
-ps -ef | grep "sshd"
+service ssh status

@@ -1,1 +1,1 @@
-/etc/hosts
+echo "edit /etc/hostname ; update /etc/hosts ; restart"
