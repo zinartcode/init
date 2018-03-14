@@ -1,0 +1,9 @@
+Based on return from
+ 
+whois slash16.org | grep "Name Server"
+
+or 
+
+host -t NS slash16.org
+
+provider is Amazon AWS

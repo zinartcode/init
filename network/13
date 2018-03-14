@@ -1,0 +1,9 @@
+traceroute 10.51.1.253 
+or
+host 10.51.1.253
+
+will give us information about the server
+
+this is DNS server
+
+
