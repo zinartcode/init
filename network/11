@@ -1,6 +1,1 @@
-traceroute slash16.org will print the route, first device listed is my default gateway.
-can also look up my default gateway by usin command:
-
-route get default
-
-
+NAT server
