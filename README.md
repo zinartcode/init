@@ -1,17 +1,5 @@
 # init
 
-# Introduction
-Slash16 is a network of people who are passionate about system and network administration
-and/or operations development (DevOps).
-Our goal is also to enable a flow of knowledge across our members by setting up
-common projects, conferences or via any others type of activity that makes it possible to
-share both knowledge and professional experience.
-That’s why we decided to treat you with two subjects:
-• An initiation subject (This one).
-• A complete infrastructure creation subject, roger-skyline-2.
-With that, you will have access, on your e-learning platform, to a bunch of videos
-that will help you understand the essential notions you’re going to need.
-
 # Goals
 This first project, init, will give you the opportunity to discover system and network
 basic commands, many of the services used on a server machine, as well as a few ideas of
